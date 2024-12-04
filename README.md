@@ -4,3 +4,7 @@
 - การใช้ Semantic HTML
 - Form Validation
 - ARIA Labels
+## git command used in this lab
+git add . 
+git add Readme.md
+git commit -m "comment"
